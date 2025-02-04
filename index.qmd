@@ -1,0 +1,29 @@
+---
+title: "About Me"
+about:
+    id: intro-heading
+    template: trestles
+    image: images/profilepic.jpg
+    links:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/frida-morado/
+      - icon: github
+        href: https://github.com/fmorado.github.io
+---
+
+About this site
+
+## Education
+
+Macalester College | St. Paul MN <br>
+B.A. in Economics | Sept 2021 - May 2025
+
+# About Me
+
+Hello! I’m a senior at Macalester College, majoring in Economics and minoring in Data Science. I’m interested in sustainable finance and impact investing, particularly in the role of capital in driving positive environmental and social change. 
+
+I’ve had the opportunity to study in four countries—the U.S., Mexico, Armenia, and Italy—through scholarships, which has shaped my global perspective and adaptability. Through my academic and professional experiences, I enjoy working at the intersection of finance, sustainability, and data-driven decision-making. 
+
+---
+
+
