@@ -3,7 +3,7 @@
     "path": "~/Desktop/Desktop - MacBook Air de Frida (2)/STAT212/frida_website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "3911268555",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1738625933644.0,
@@ -17,8 +17,8 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "30:0",
-        "cursorPosition": "1,16",
-        "scrollLine": "0"
+        "cursorPosition": "22,9",
+        "scrollLine": "14"
     },
     "folds": "",
     "lastKnownWriteTime": 1738628589,
